@@ -1,0 +1,20 @@
+{
+  "compilerOptions": {
+    // This must be specified if "paths" is set
+    "baseUrl": ".",
+    // Relative to "baseUrl"
+    "paths": {
+      "~/*": [
+        "*",
+        "src/*",
+        "assets/*"
+      ]
+    },
+    "module": "commonjs",
+    "target": "ES6",
+    "jsx": "react",
+    "importHelpers": true,
+    "emitDecoratorMetadata": true,
+    "experimentalDecorators": true
+  }
+}
