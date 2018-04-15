@@ -1,2 +1,5 @@
-# absolute-sample
-Files are imported from their absolute paths instead of their relative paths
+
+
+
+
+- https://blog.andrewray.me/autocomplete-es-modules-webpack-vscode/

@@ -1,0 +1,12 @@
+{
+    "presets": [
+        "react"
+    ],
+    "plugins": [
+        "transform-decorators-legacy",
+        "transform-class-properties",
+        "transform-async-functions",
+        "transform-object-rest-spread",
+        "syntax-dynamic-import"
+    ]
+}
